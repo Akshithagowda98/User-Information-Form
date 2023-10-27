@@ -1,0 +1,27 @@
+{
+  "name": "nextjs-forked",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "axios": "1.6.0",
+    "next": "3.0.1-beta.20",
+    "ramda": "0.29.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "split": "1.0.1",
+    "split.js": "1.6.5",
+    "string-length": "6.0.0",
+    "trim": "1.0.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
